@@ -22,7 +22,7 @@ export default {
         effra_cc: ['effra-cc', 'sans-serif'],
       },
       backgroundImage:{
-        'contact': "url('./public/assets/img/contacto/fondocontacto.png)",
+        'contact': "url('./assets/img/contacto/fondocontacto.png)",
       }
     },
   },
