@@ -3,14 +3,14 @@ import Marquee from "react-fast-marquee";
 
 export const Brands = () => {
   const logos = [
-    {'img':'public/assets/img/brands/logos/carnesblancas.png'},
-    {'img':'public/assets/img/brands/logos/ediba.png'},
-    {'img':'public/assets/img/brands/logos/happiness.png'},
-    {'img':'public/assets/img/brands/logos/mundosalad.png'},
-    {'img':'public/assets/img/brands/logos/onwok.png'},
-    {'img':'public/assets/img/brands/logos/orthowebinars.png'},
-    {'img':'public/assets/img/brands/logos/salvaje.png'},
-    {'img':'public/assets/img/brands/logos/vait.png'},
+    {'img':'assets/img/brands/logos/carnesblancas.png'},
+    {'img':'assets/img/brands/logos/ediba.png'},
+    {'img':'assets/img/brands/logos/happiness.png'},
+    {'img':'assets/img/brands/logos/mundosalad.png'},
+    {'img':'assets/img/brands/logos/onwok.png'},
+    {'img':'assets/img/brands/logos/orthowebinars.png'},
+    {'img':'assets/img/brands/logos/salvaje.png'},
+    {'img':'assets/img/brands/logos/vait.png'},
 
 
     ]
